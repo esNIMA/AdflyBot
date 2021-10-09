@@ -1,0 +1,421 @@
+1633260911118	geckodriver	INFO	Listening on 127.0.0.1:57242
+1633260911604	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileYLlSxM"
+1633260919531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileYLlSxM\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1633260948107	Marionette	INFO	Listening on port 57250
+1633260948984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633260948996	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"157.245.115.98:8118","sslProxy":"157.245.115.98:8118"}
+1633260951144	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1633261435299	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633264235783	Marionette	INFO	Stopped listening on port 57250
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileHUFBHn\\search.json.mozlz4", (void 0)))
+1633260982128	Marionette	INFO	Listening on port 57326
+1633260982764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633260982766	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"195.9.162.186:8080","sslProxy":"195.9.162.186:8080"}
+1633261178000	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1633261188159	Marionette	INFO	Stopped listening on port 57326
+1633261199391	geckodriver	INFO	Listening on 127.0.0.1:54973
+1633261199907	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileMZnV8n"
+1633261204051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileMZnV8n\\search.json.mozlz4", (void 0)))
+1633261206862	Marionette	INFO	Listening on port 54981
+1633261207020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633261207022	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"217.150.77.31:53281","sslProxy":"217.150.77.31:53281"}
+JavaScript error: http://cdn.hurirk.net/static/js/main.js, line 1: ReferenceError: $ is not defined
+1633261402068	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1633261402078	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1633261492317	Marionette	INFO	Stopped listening on port 54981
+1633261503222	geckodriver	INFO	Listening on 127.0.0.1:59263
+1633261503673	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofilezYyxrS"
+1633261508139	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofilezYyxrS\\search.json.mozlz4", (void 0)))
+1633261510952	Marionette	INFO	Listening on port 59271
+1633261511760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633261511763	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"200.115.53.225:3128","sslProxy":"200.115.53.225:3128"}
+1633262038167	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 9284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633264241866	Marionette	INFO	Stopped listening on port 59271
+a\\Local\\Temp\\rust_mozprofilegFg067"
+1633261616904	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofilegFg067\\search.json.mozlz4", (void 0)))
+1633261619974	Marionette	INFO	Listening on port 59365
+1633261620567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633261620571	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"116.58.254.197:8080","sslProxy":"116.58.254.197:8080"}
+1633262146933	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 11924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 11924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 11924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633264257360	Marionette	INFO	Stopped listening on port 59365
+11	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633261715414	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"182.53.197.156:43060","sslProxy":"182.53.197.156:43060"}
+1633261981903	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1633262003134	Marionette	INFO	Stopped listening on port 59909
+[Parent 10884, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1633262014025	geckodriver	INFO	Listening on 127.0.0.1:60289
+1633262014507	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileLXBmIV"
+1633262018819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileLXBmIV\\search.json.mozlz4", (void 0)))
+1633262021777	Marionette	INFO	Listening on port 60297
+1633262022334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262022339	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"101.51.106.70:49285","sslProxy":"101.51.106.70:49285"}
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 5448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633264254870	Marionette	INFO	Stopped listening on port 60297
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_mozprofileCXlXXS\\search.json.mozlz4", (void 0)))
+1633262086715	Marionette	INFO	Listening on port 60344
+1633262087563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262087567	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"80.59.199.213:8080","sslProxy":"80.59.199.213:8080"}
+1633262098065	Marionette	INFO	Stopped listening on port 60344
+1633262109254	geckodriver	INFO	Listening on 127.0.0.1:60377
+1633262109778	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileQdodhT"
+1633262112765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileQdodhT\\search.json.mozlz4", (void 0)))
+1633262115269	Marionette	INFO	Listening on port 60385
+1633262115338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262115341	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"195.250.254.18:8080","sslProxy":"195.250.254.18:8080"}
+1633262642791	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 13416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1633264253032	Marionette	INFO	Stopped listening on port 60385
+\Local\\Temp\\rust_mozprofileVyWGLt\\search.json.mozlz4", (void 0)))
+1633262184375	Marionette	INFO	Listening on port 52878
+1633262185017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262185019	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"154.17.87.10:29842","sslProxy":"154.17.87.10:29842"}
+1633262197212	Marionette	INFO	Stopped listening on port 52878
+[Parent 12724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633262208050	geckodriver	INFO	Listening on 127.0.0.1:52915
+1633262208564	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofilehYS9N8"
+1633262212372	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofilehYS9N8\\search.json.mozlz4", (void 0)))
+1633262215049	Marionette	INFO	Listening on port 52923
+1633262215138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262215141	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"41.193.14.5:3128","sslProxy":"41.193.14.5:3128"}
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 4548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":467,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:161","resource://gre/modules/XPCOMUtils.jsm:get:62","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1709","resource:///modules/BrowserGlue.jsm:BG_observe:1014","chrome://browser/content/browser.js:_delayedStartup:2159"]}] Barrier: profile-before-change
+1633264248215	Marionette	INFO	Stopped listening on port 52923
+gress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":467,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:161","resource://gre/modules/XPCOMUtils.jsm:get:62","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1709","resource:///modules/BrowserGlue.jsm:BG_observe:1014","chrome://browser/content/browser.js:_delayedStartup:2159"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1633264243599	Marionette	INFO	Stopped listening on port 58078
+,"state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":467,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:161","resource://gre/modules/XPCOMUtils.jsm:get:62","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1709","resource:///modules/BrowserGlue.jsm:BG_observe:1014","chrome://browser/content/browser.js:_delayedStartup:2159"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1633264237830	Marionette	INFO	Stopped listening on port 64456
+E
+[Parent 15708, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633264222128	Marionette	INFO	Stopped listening on port 52585
+o settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofile1xHk1C\\search.json.mozlz4", (void 0)))
+1633262491729	Marionette	INFO	Listening on port 64627
+1633262492542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262492545	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"23.81.127.85:8118","sslProxy":"23.81.127.85:8118"}
+1633263017625	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633264217288	Marionette	INFO	Stopped listening on port 64627
+Local\\Temp\\rust_mozprofileHynPTI"
+1633262557519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileHynPTI\\search.json.mozlz4", (void 0)))
+1633262560846	Marionette	INFO	Listening on port 49828
+1633262561832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262561835	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"23.108.43.62:8118","sslProxy":"23.108.43.62:8118"}
+1633263087542	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633264217192	Marionette	INFO	Stopped listening on port 49828
+Local\\Temp\\rust_mozprofileULaLgl"
+1633262627476	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileULaLgl\\search.json.mozlz4", (void 0)))
+1633262631272	Marionette	INFO	Listening on port 50005
+1633262632391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262632395	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"47.242.200.148:80","sslProxy":"47.242.200.148:80"}
+1633262733020	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1633262733151	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dc5k8fg5ioc8s.cloudfront.net/?gfkcd=824473, line 1: SecurityError: The operation is insecure.
+1633262769177	Marionette	INFO	Stopped listening on port 50005
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633262780138	geckodriver	INFO	Listening on 127.0.0.1:60843
+1633262780605	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileemAUBB"
+1633262785033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileemAUBB\\search.json.mozlz4", (void 0)))
+1633262788599	Marionette	INFO	Listening on port 60851
+1633262789666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262789674	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"87.197.151.153:8118","sslProxy":"87.197.151.153:8118"}
+1633262800135	Marionette	INFO	Stopped listening on port 60851
+1633262810685	geckodriver	INFO	Listening on 127.0.0.1:60885
+1633262811201	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofile1Zdg6H"
+1633262813528	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofile1Zdg6H\\search.json.mozlz4", (void 0)))
+1633262816426	Marionette	INFO	Listening on port 60893
+[Parent 18276, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633262816898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262816901	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"136.228.141.154:8080","sslProxy":"136.228.141.154:8080"}
+JavaScript error: https://static.parastorage.com/services/wix-thunderbolt/dist/main.4028c2dc.bundle.min.js, line 1: Error: Unbound named dependency Symbol(MasterPageFeatureConfig)("router") in module 
+1633262917567	Marionette	INFO	Stopped listening on port 60893
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633262928380	geckodriver	INFO	Listening on 127.0.0.1:52673
+1633262928898	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileRlwNIf"
+1633262933405	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileRlwNIf\\search.json.mozlz4", (void 0)))
+1633262936978	Marionette	INFO	Listening on port 52681
+1633262937398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262937402	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"64.43.89.78:6337","sslProxy":"64.43.89.78:6337"}
+1633262948128	Marionette	INFO	Stopped listening on port 52681
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633262958751	geckodriver	INFO	Listening on 127.0.0.1:52713
+1633262959264	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileRAFggb"
+1633262959814	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileRAFggb\\search.json.mozlz4", (void 0)))
+1633262962639	Marionette	INFO	Listening on port 52721
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1633262963346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633262963350	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"188.166.165.240:80","sslProxy":"188.166.165.240:80"}
+JavaScript error: http://cdn.hurirk.net/static/js/main.js, line 1: ReferenceError: $ is not defined
+1633262975296	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1633262975476	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1633262992030	Marionette	INFO	Stopped listening on port 52721
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633263002759	geckodriver	INFO	Listening on 127.0.0.1:60751
+1633263003274	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofilerlfS92"
+1633263004755	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofilerlfS92\\search.json.mozlz4", (void 0)))
+1633263007589	Marionette	INFO	Listening on port 60759
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1633263007697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633263007699	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"23.105.78.203:8118","sslProxy":"23.105.78.203:8118"}
+1633263534785	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 17988, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 17988, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1633264211436	Marionette	INFO	Stopped listening on port 60759
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ficate errors will be ignored for this session
+1633263076394	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"185.134.96.34:8081","sslProxy":"185.134.96.34:8081"}
+1633263603127	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633264211112	Marionette	INFO	Stopped listening on port 50738
+Local\\Temp\\rust_mozprofilevsgRbJ"
+1633263142552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofilevsgRbJ\\search.json.mozlz4", (void 0)))
+1633263146658	Marionette	INFO	Listening on port 51151
+1633263148071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633263148075	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"34.238.42.164:49205","sslProxy":"34.238.42.164:49205"}
+1633263670936	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  security-state/intermediates Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1633264211403	Marionette	INFO	Stopped listening on port 51151
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+57592
+1633263217779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633263217781	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"180.178.189.118:3127","sslProxy":"180.178.189.118:3127"}
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1633263743689	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633264210254	Marionette	INFO	Stopped listening on port 57592
+ers\\Nima\\AppData\\Local\\Temp\\rust_mozprofileR6UeRJ\\search.json.mozlz4", (void 0)))
+1633263288693	Marionette	INFO	Listening on port 50603
+1633263289088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633263289093	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"3.8.23.128:34798","sslProxy":"3.8.23.128:34798"}
+1633263398921	Marionette	INFO	Stopped listening on port 50603
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633263409575	geckodriver	INFO	Listening on 127.0.0.1:54123
+1633263410018	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofilemyftcx"
+1633263414471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofilemyftcx\\search.json.mozlz4", (void 0)))
+1633263417674	Marionette	INFO	Listening on port 63980
+1633263417738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633263417742	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"47.113.106.44:443","sslProxy":"47.113.106.44:443"}
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Messconsole.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1633264158583	addons.xpi	ERROR	Failed to download system add-on proxy-failover@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+1633264158586	addons.xpi	ERROR	Failed to download system add-on addons-search-detection@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633264206975	Marionette	INFO	Stopped listening on port 63980
+ to download system add-on reset-search-defaults@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+console.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/doh-config Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+1633264206029	Marionette	INFO	Stopped listening on port 49673
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d 0)))
+1633263902986	Marionette	INFO	Listening on port 62454
+1633263903009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633263903011	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"93.91.112.247:41258","sslProxy":"93.91.112.247:41258"}
+1633264190775	Marionette	INFO	Stopped listening on port 62454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633268805027	geckodriver	INFO	Listening on 127.0.0.1:61947
+1633268805527	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileU5fnLf"
+1633268927838	geckodriver	INFO	Listening on 127.0.0.1:64189
+1633268928347	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileuWouzY"
+1633268928785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileuWouzY\\search.json.mozlz4", (void 0)))
+1633268931630	Marionette	INFO	Listening on port 64197
+1633268931686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633268931688	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"101.53.158.48:9300","sslProxy":"101.53.158.48:9300"}
+1633269458810	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633270610322	Marionette	INFO	Stopped listening on port 64197
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+[Parent 14504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+anual","httpProxy":"213.216.67.190:8080","sslProxy":"213.216.67.190:8080"}
+1633269523672	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633270610340	Marionette	INFO	Stopped listening on port 54986
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ (void 0)))
+1633269060558	Marionette	INFO	Listening on port 55059
+1633269060981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633269060983	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"194.233.69.41:443","sslProxy":"194.233.69.41:443"}
+JavaScript error: https://dc5k8fg5ioc8s.cloudfront.net/?gfkcd=824473, line 1: SecurityError: The operation is insecure.
+1633269587978	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633270607460	Marionette	INFO	Stopped listening on port 55059
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+s will be ignored for this session
+1633269383545	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"172.241.192.72:8118","sslProxy":"172.241.192.72:8118"}
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633270610353	Marionette	INFO	Stopped listening on port 64915
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+[Parent 10884, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+4.190:29842","sslProxy":"154.17.84.190:29842"}
+1633269459119	Marionette	INFO	Stopped listening on port 59507
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633269469931	geckodriver	INFO	Listening on 127.0.0.1:59566
+1633269470455	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileE4AZob"
+1633269470802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nima\\AppData\\Local\\Temp\\rust_mozprofileE4AZob\\search.json.mozlz4", (void 0)))
+1633269473276	Marionette	INFO	Listening on port 59576
+1633269473683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633269473686	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"136.228.227.14:80","sslProxy":"136.228.227.14:80"}
+1633270000832	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633270610330	Marionette	INFO	Stopped listening on port 59576
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
